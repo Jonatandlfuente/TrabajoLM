@@ -25,6 +25,7 @@ h2{
 .div1{
 	border: 2px solid #2FF466;
 	align-items:center;
+	background-image: url("https://lamenteesmaravillosa.com/wp-content/uploads/2015/06/C%C3%A1ncer-1024x718.jpg");
 
 }
 .div2{
@@ -80,6 +81,7 @@ h2{
 	padding: 10px;
 	bottom: 0;
 	left: bottom;
+	position: fixed;
 }
 
 .pie1{
@@ -96,6 +98,10 @@ h2{
 }
 
 input{
+	border: 2px solid #2FF466;
+	background-color: #D6F9DF;
+}
+.input{
 	border: 2px solid #2FF466;
 	background-color: #D6F9DF;
 }
